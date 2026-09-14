@@ -2,7 +2,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahzad006" alt="shahzad006" /></a> </p>
 
 - 🔭 I’m currently working on [Raza Collection](https://raza-collection-website.vercel.app/)
 
