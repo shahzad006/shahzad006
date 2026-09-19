@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Raza Collection](https://raza-collection-website.vercel.app/)
+- 🔭 I’m currently working on [Raza Collection](https://razacollection.vercel.app/)
 
 - 🌱 I’m currently learning **Agentic AI**
 
