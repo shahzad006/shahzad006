@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<style>.kw{fill:#cf222e}.cls{fill:#953800}.fn{fill:#8250df}.str{fill:#0a3069}.p{fill:#1f2328}.com{fill:#6e7781}
+.k{fill:#0550ae} .v{fill:#1f2328} .d{fill:#8c959f} .h{fill:#8250df;font-weight:700}
+.ln{opacity:0;animation:fade .4s ease forwards}
+@keyframes fade{to{opacity:1}}
+@keyframes blink{50%{opacity:0}}
+@keyframes pulse{50%{opacity:.35}}
+.cur{animation:blink 1s step-end infinite}
+.dot{animation:pulse 2s ease-in-out infinite}
+</style>
+<rect x="1" y="1" width="998" height="418" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<line x1="1" y1="40" x2="999" y2="40" stroke="#d0d7de"/>
+<circle cx="22" cy="21" r="5.5" fill="#ff5f56"/>
+<circle cx="40" cy="21" r="5.5" fill="#ffbd2e"/>
+<circle cx="58" cy="21" r="5.5" fill="#27c93f"/>
+<text x="500.0" y="25" text-anchor="middle" font-size="12" fill="#57606a">muhammad-shahzad — ~/profile</text>
+<circle class="dot" cx="890" cy="21" r="4" fill="#1a7f37"/>
+<text x="900" y="25" font-size="11" fill="#1a7f37">online</text>
+<rect x="18" y="58" width="440" height="344" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="30" y="78" font-size="11" fill="#57606a">about_me.py</text>
+<line x1="18" y1="88" x2="458" y2="88" stroke="#d0d7de"/>
+<rect x="472" y="58" width="510" height="344" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="484" y="78" font-size="11" fill="#57606a">profile.json</text>
+<line x1="472" y1="88" x2="982" y2="88" stroke="#d0d7de"/>
+<text class="ln" style="animation-delay:0.30s" font-size="12.5" xml:space="preserve"><tspan x="32" y="110" fill="#8c959f"> 1</tspan><tspan x="62.0" y="110"><tspan class="kw">class </tspan><tspan class="cls">AIEngineer</tspan><tspan class="p">:</tspan></tspan></text>
+<text class="ln" style="animation-delay:0.42s" font-size="12.5" xml:space="preserve"><tspan x="32" y="128" fill="#8c959f"> 2</tspan><tspan x="92.0" y="128"><tspan class="kw">def </tspan><tspan class="fn">__init__</tspan><tspan class="p">(self):</tspan></tspan></text>
+<text class="ln" style="animation-delay:0.54s" font-size="12.5" xml:space="preserve"><tspan x="32" y="146" fill="#8c959f"> 3</tspan><tspan x="122.0" y="146"><tspan class="p">self.name  = </tspan><tspan class="str">&quot;Muhammad Shahzad&quot;</tspan></tspan></text>
+<text class="ln" style="animation-delay:0.66s" font-size="12.5" xml:space="preserve"><tspan x="32" y="164" fill="#8c959f"> 4</tspan><tspan x="122.0" y="164"><tspan class="p">self.role  = </tspan><tspan class="str">&quot;AI Engineer&quot;</tspan></tspan></text>
+<text class="ln" style="animation-delay:0.78s" font-size="12.5" xml:space="preserve"><tspan x="32" y="182" fill="#8c959f"> 5</tspan><tspan x="122.0" y="182"><tspan class="p">self.stack = [</tspan><tspan class="str">&quot;Python&quot;</tspan><tspan class="p">, </tspan><tspan class="str">&quot;FastAPI&quot;</tspan><tspan class="p">,</tspan></tspan></text>
+<text class="ln" style="animation-delay:0.90s" font-size="12.5" xml:space="preserve"><tspan x="32" y="200" fill="#8c959f"> 6</tspan><tspan x="212.0" y="200"><tspan class="str">&quot;LangChain&quot;</tspan><tspan class="p">, </tspan><tspan class="str">&quot;LangGraph&quot;</tspan><tspan class="p">]</tspan></tspan></text>
+<text class="ln" style="animation-delay:1.02s" font-size="12.5" xml:space="preserve"><tspan x="32" y="218" fill="#8c959f"> 7</tspan><tspan x="122.0" y="218"><tspan class="p">self.focus = [</tspan><tspan class="str">&quot;Agentic workflows&quot;</tspan><tspan class="p">,</tspan></tspan></text>
+<text class="ln" style="animation-delay:1.14s" font-size="12.5" xml:space="preserve"><tspan x="32" y="236" fill="#8c959f"> 8</tspan><tspan x="212.0" y="236"><tspan class="str">&quot;RAG pipelines&quot;</tspan><tspan class="p">,</tspan></tspan></text>
+<text class="ln" style="animation-delay:1.26s" font-size="12.5" xml:space="preserve"><tspan x="32" y="254" fill="#8c959f"> 9</tspan><tspan x="212.0" y="254"><tspan class="str">&quot;Multi-agent systems&quot;</tspan><tspan class="p">]</tspan></tspan></text>
+<text class="ln" style="animation-delay:1.38s" font-size="12.5" xml:space="preserve"><tspan x="32" y="272" fill="#8c959f">10</tspan><tspan x="62.0" y="272"></tspan></text>
+<text class="ln" style="animation-delay:1.50s" font-size="12.5" xml:space="preserve"><tspan x="32" y="290" fill="#8c959f">11</tspan><tspan x="92.0" y="290"><tspan class="kw">def </tspan><tspan class="fn">build</tspan><tspan class="p">(self):</tspan></tspan></text>
+<text class="ln" style="animation-delay:1.62s" font-size="12.5" xml:space="preserve"><tspan x="32" y="308" fill="#8c959f">12</tspan><tspan x="122.0" y="308"><tspan class="kw">return </tspan><tspan class="str">&quot;intelligent systems&quot;</tspan></tspan></text>
+<text class="ln" style="animation-delay:1.74s" font-size="12.5" xml:space="preserve"><tspan x="32" y="326" fill="#8c959f">13</tspan><tspan x="62.0" y="326"></tspan></text>
+<text class="ln" style="animation-delay:1.86s" font-size="12.5" xml:space="preserve"><tspan x="32" y="344" fill="#8c959f">14</tspan><tspan x="62.0" y="344"><tspan class="p">me = </tspan><tspan class="cls">AIEngineer</tspan><tspan class="p">()</tspan></tspan></text>
+<text class="ln" style="animation-delay:1.98s" font-size="12.5" xml:space="preserve"><tspan x="32" y="362" fill="#8c959f">15</tspan><tspan x="62.0" y="362"><tspan class="p">me.</tspan><tspan class="fn">build</tspan><tspan class="p">()</tspan></tspan></text>
+<text class="ln" style="animation-delay:2.10s" font-size="12.5" xml:space="preserve"><tspan x="32" y="380" fill="#8c959f">16</tspan><tspan x="62.0" y="380"><tspan class="com"># -&gt; &#x27;intelligent systems&#x27;</tspan></tspan></text>
+<text class="ln" style="animation-delay:2.22s" x="488" y="112" font-size="14"><tspan class="h">muhammad.shahzad</tspan></text>
+<text class="ln" style="animation-delay:2.32s" x="488" y="131" font-size="12.5"><tspan class="k">Name</tspan><tspan class="d"> ......... </tspan><tspan class="v">Muhammad Shahzad</tspan></text>
+<text class="ln" style="animation-delay:2.42s" x="488" y="150" font-size="12.5"><tspan class="k">Role</tspan><tspan class="d"> ......... </tspan><tspan class="v">Full-Stack Developer | AI Engineer</tspan></text>
+<text class="ln" style="animation-delay:2.52s" x="488" y="169" font-size="12.5"><tspan class="k">Focus</tspan><tspan class="d"> ........ </tspan><tspan class="v">Agentic Workflows · RAG · Automation</tspan></text>
+<text class="ln" style="animation-delay:2.62s" x="488" y="188" font-size="12.5"><tspan class="k">Currently</tspan><tspan class="d"> .... </tspan><tspan class="v">Building • Learning and Shipping Projects</tspan></text>
+<text class="ln" style="animation-delay:2.72s" x="488" y="215" font-size="12"><tspan class="k" font-weight="700">Tech Stack</tspan><tspan class="d"> ──────────────────────────────────────────────</tspan></text>
+<text class="ln" style="animation-delay:2.82s" x="488" y="234" font-size="12.5"><tspan class="k">Languages</tspan><tspan class="d"> .... </tspan><tspan class="v">Python, JavaScript, TypeScript</tspan></text>
+<text class="ln" style="animation-delay:2.92s" x="488" y="253" font-size="12.5"><tspan class="k">AI / Agents</tspan><tspan class="d"> .. </tspan><tspan class="v">LangChain, LangGraph, Google ADK </tspan></text>
+<text class="ln" style="animation-delay:3.02s" x="488" y="272" font-size="12.5"><tspan class="k">Frontend</tspan><tspan class="d"> ..... </tspan><tspan class="v">React, Next.js, TailwindCSS</tspan></text>
+<text class="ln" style="animation-delay:3.12s" x="488" y="291" font-size="12.5"><tspan class="k">Backend</tspan><tspan class="d"> ...... </tspan><tspan class="v">FastAPI, REST APIs</tspan></text>
+<text class="ln" style="animation-delay:3.22s" x="488" y="318" font-size="12"><tspan class="k" font-weight="700">Contact</tspan><tspan class="d"> ──────────────────────────────────────────────</tspan></text>
+<text class="ln" style="animation-delay:3.32s" x="488" y="337" font-size="12.5"><tspan class="k">GitHub</tspan><tspan class="d"> ....... </tspan><tspan class="v">github.com/shahzad006</tspan></text>
+<text class="ln" style="animation-delay:3.42s" x="488" y="356" font-size="12.5"><tspan class="k">Gmail</tspan><tspan class="d"> ........ </tspan><tspan class="v">muhammadshahzad45435@gmail.com</tspan></text>
+<g class="ln" style="animation-delay:3.52s"><text x="488" y="375" font-size="12.5"><tspan fill="#1a7f37">❯ </tspan><tspan class="d">Contribution activity below ↓</tspan></text><rect class="cur" x="723.5" y="364" width="7" height="14" fill="#0969da"/></g>
+</svg>

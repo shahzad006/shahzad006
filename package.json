@@ -1,0 +1,11 @@
+{
+  "name": "muhammadshahzad",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Profile README assets: terminal card + jet contribution heatmap",
+  "scripts": {
+    "heatmap": "node generate.mjs",
+    "card": "python3 make_card.py"
+  }
+}
